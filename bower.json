@@ -1,0 +1,17 @@
+{
+    "name": "frijole-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Sideshow"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/frijole-bower.git"
+    },
+    "description": "Frijole font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
